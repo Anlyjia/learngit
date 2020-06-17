@@ -6,4 +6,4 @@ learn git status
 
 Create a new branch is quickly
 
-Create a new branch is quick and simple
+Create a new branch is quick and simple  fix bug 101
